@@ -239,7 +239,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<mainClass>
-								org.prolobjectlink.prolog.jtrolog.JTrologBenchmarkRunner
+								io.github.prolobjectlink.prolog.jtrolog.JTrologBenchmarkRunner
 							</mainClass>
 						</manifest>
 						<manifestEntries>
